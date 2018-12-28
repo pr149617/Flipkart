@@ -3,6 +3,7 @@ dapter Local Area Connection:
 
    Connection-specific DNS Suffix  . : corp.capgemini.com
    IPv4 Address. . . . . . . . . . . : 10.77.52.182
+<<<<<<< HEAD
 =======
 Pv4 Address. . . . . . . . . . . : 10.77.52.182
   Subnet Mask . . . . . . . . . . . : 255.255.252.0
@@ -11,3 +12,6 @@ Pv4 Address. . . . . . . . . . . : 10.77.52.182
 
 
 >>>>>>> ipdetails
+=======
+   Subnet Mask . . . . . . . . . . . : 255.255.252.0
+>>>>>>> auth
